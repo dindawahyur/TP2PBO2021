@@ -1,0 +1,17 @@
+Saya Dinda Wahyu R mengerjakan TP2 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah di spesifikasikan. Aamiin.
+
+Kesulitan: 
+- Bingung karena ada beberapa tahap untuk mengkoneksikan ke database
+(download library, lalu menambahkan nya ke project, mengkoneksikan tabel)
+
+Hal baru yang dipelajari: 
+- Mengkoneksikan database dengan java
+- Memasukan data ke tabel pada database
+- mengambil data dari tabel pada database
+
+Fitur yang sudah di kerjakan:
+- sudah selesai challenge
+- koneksi ke database
+- memasukan data tabel ke database
+- menampilkan data tabel dari database
+- menambahkan foto pada bagian info
