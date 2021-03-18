@@ -3,6 +3,7 @@ Saya Dinda Wahyu R mengerjakan TP2 dalam mata kuliah DPBO untuk keberkahanNya ma
 Kesulitan: 
 - Bingung karena ada beberapa tahap untuk mengkoneksikan ke database
 (download library, lalu menambahkan nya ke project, mengkoneksikan tabel)
+- sulit mengatur posisi panel
 
 Hal baru yang dipelajari: 
 - Mengkoneksikan database dengan java
